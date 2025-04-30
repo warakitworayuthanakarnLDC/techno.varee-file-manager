@@ -61,3 +61,60 @@ This project uses **outdated and vulnerable PHP functions**, including:
    ```bash
    sudo chown -R www-data:www-data /var/www/html/
    sudo chmod -R 755 /var/www/html/
+
+# Terms of Use
+
+**Last Updated:** April 2025
+
+By using or deploying this project ("Techno.Varee File Manager Clone"), you agree to the following terms:
+
+---
+
+## 1. No Warranty or Guarantee
+
+This software is provided **"as-is"** without any express or implied warranties. The authors and contributors do not guarantee the accuracy, security, or performance of the code in any environment.
+
+---
+
+## 2. Liability Disclaimer
+
+Under no circumstances shall the authors or contributors be held liable for:
+
+- Damage to your server, VPS, hosting infrastructure, or data.
+- Security breaches resulting from the use of legacy code or improper configuration.
+- Disciplinary or legal consequences if deployed in unauthorized environments.
+
+**You use this software entirely at your own risk.**
+
+---
+
+## 3. Intended Use
+
+This project is intended solely for:
+
+- Educational analysis
+- Legacy system study
+- Controlled sandbox deployment
+
+**It is not designed for use in production or exposed systems.**
+
+---
+
+## 4. Unauthorized Use
+
+Do **not** use this software to access, replicate, or tamper with servers or systems you do not explicitly own or have permission to interact with. Doing so may constitute a violation of local laws or school policy.
+
+---
+
+## 5. Acknowledgement
+
+By downloading, deploying, or modifying this codebase, you acknowledge that:
+
+- You understand the risks associated with its use.
+- You take full responsibility for any consequences of your usage.
+- You will not hold the authors liable for any resulting damages, losses, or violations.
+
+---
+
+**Proceed with caution. Use responsibly. Hack ethically.**
+
