@@ -1,6 +1,6 @@
 # Techno.Varee Web File Manager Clone
 
-A legacy multi-user PHP file manager cloned from an internal educational deployment used at Varee Chiangmai School. This platform allows students to manage their own sandboxed PHP files, perform file operations, and even manage simple databases — all from a web interface.
+A legacy multi-user PHP file manager cloned from an internal educational deployment used at Varee Chiangmai School. This platform allows students to manage their own sandboxed PHP files, perform file operations, and even manage simple databases all from a web interface.
 
 > 🛡️ Ported and analyzed with permission for ethical and research purposes only.
 
